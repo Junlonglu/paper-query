@@ -174,5 +174,8 @@ cython_debug/
 .pypirc
 
 
-# 忽略查询结果文件夹
+# 忽略查询结果文件夹及其内容
 query_result/
+
+# 只保留custom_info 下的default.json文件
+!custom_info/default.json

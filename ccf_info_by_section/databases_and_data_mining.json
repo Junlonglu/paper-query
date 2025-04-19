@@ -1,0 +1,518 @@
+{
+  "journal_A": [
+    {
+      "key": "TODS",
+      "full_name": "ACM Transactions on Database Systems",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tods/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "TOIS",
+      "full_name": "ACM Transactions on Information Systems",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tois/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "TKDE",
+      "full_name": "IEEE Transactions on Knowledge and Data Engineering",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tkde/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "VLDBJ",
+      "full_name": "TheVLDB Journal",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/vldb/",
+      "section": "数据库·数据挖掘·内容检索"
+    }
+  ],
+  "journal_B": [
+    {
+      "key": "TKDD",
+      "full_name": "ACM Transactions on Knowledge Discovery from Data",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tkdd/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "TWEB",
+      "full_name": "ACM Transactions on the Web",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tweb/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "AEI",
+      "full_name": "Advanced Engineering Informatics",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/aei/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "DKE",
+      "full_name": "Data & Knowledge Engineering",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/dke/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "DMKD",
+      "full_name": "Data Mining and Knowledge Discovery",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/datamine/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "EJIS",
+      "full_name": "European Journal of Information Systems",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/ejis/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "GeoInformatica",
+      "full_name": "GeoInformatica",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/geoinformatica/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "IPM",
+      "full_name": "Information Processing and Management",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/ipm/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "Information Sciences",
+      "full_name": "Information Sciences",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/isci/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "IS",
+      "full_name": "Information Systems",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/is/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "JASIST",
+      "full_name": "Journal of the Association for Information Science and Technology",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/jasis/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "JWS",
+      "full_name": "Journal of Web Semantics",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/ws/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "KAIS",
+      "full_name": "Knowledge and Information Systems",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/kais/",
+      "section": "数据库·数据挖掘·内容检索"
+    }
+  ],
+  "journal_C": [
+    {
+      "key": "DPD",
+      "full_name": "Distributed and Parallel Databases",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/dpd/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "I&M",
+      "full_name": "Information & Management",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/iam/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "IPL",
+      "full_name": "Information Processing Letters",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ipl/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "IR",
+      "full_name": "Information Retrieval Journal",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ir/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "IJCIS",
+      "full_name": "International Journal of Cooperative Information Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ijcis/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "IJGIS",
+      "full_name": "International Journal of Geographical Information Science",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/gis/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "IJIS",
+      "full_name": "International Journal of Intelligent Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ijis/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "IJKM",
+      "full_name": "International Journal of Knowledge Management",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ijkm/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "IJSWIS",
+      "full_name": "International Journal on Semantic Web and Information Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ijswis/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "JCIS",
+      "full_name": "Journal of Computer Information Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/jcis/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "JDM",
+      "full_name": "Journal of Database Management",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/jdm/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "JGITM",
+      "full_name": "Journal of Global Information Technology Management",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/jgim/index.html",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "JIIS",
+      "full_name": "Journal of Intelligent Information Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/jiis/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "JSIS",
+      "full_name": "The Journal of Strategic Information Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/jsis/",
+      "section": "数据库·数据挖掘·内容检索"
+    },
+    {
+      "key": "DSE",
+      "full_name": "Data Science and Engineering",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/dase/index.html",
+      "section": "数据库·数据挖掘·内容检索"
+    }
+  ],
+  "conference_A": [
+    {
+      "key": "SIGMOD",
+      "full_name": "ACM SIGMOD Conference",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/sigmod/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "SIGKDD",
+      "full_name": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/kdd/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "ICDE",
+      "full_name": "IEEE International Conference on Data Engineering",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/icde/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "SIGIR",
+      "full_name": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/sigir/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "VLDB",
+      "full_name": "International Conference on Very Large Data Bases",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/vldb/",
+      "section": "数据库／数据挖掘／内容检索"
+    }
+  ],
+  "conference_B": [
+    {
+      "key": "CIKM",
+      "full_name": "ACM International Conference on Information and Knowledge Management",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/cikm/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "WSDM",
+      "full_name": "ACM International Conference on Web Search and Data Mining",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/wsdm/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "PODS",
+      "full_name": "ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/pods/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "DASFAA",
+      "full_name": "International Conference on Database Systems for Advanced Applications",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/dasfaa/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "ECML",
+      "full_name": "European Conference on Machine Learning",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/ecml/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "PKDD",
+      "full_name": "Principles and Practice of Knowledge Discovery in Databases",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/pkdd/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "ISWC",
+      "full_name": "IEEE International Semantic Web Conference",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/semweb/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "ICDM",
+      "full_name": "IEEE International Conference on Data Mining",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/icdm/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "ICDT",
+      "full_name": "International Conference on Database Theory",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/icdt/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "EDBT",
+      "full_name": "International Conference on Extending Database Technology",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/edbt/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "CIDR",
+      "full_name": "Conference on Innovative Data Systems Research",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/cidr/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "SDM",
+      "full_name": "SIAM International Conference on Data Mining",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/sdm/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "RecSys",
+      "full_name": "ACM Conference on Recommender Systems",
+      "type": "conference",
+      "rank": "B",
+      "url": "https://dblp.org/db/conf/recsys/index.html",
+      "section": "数据库／数据挖掘／内容检索"
+    }
+  ],
+  "conference_C": [
+    {
+      "key": "APWeb",
+      "full_name": "Asia Pacific Web Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/apweb/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "DEXA",
+      "full_name": "International Conference on Database and Expert System Applications",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/dexa/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "ECIR",
+      "full_name": "European Conference on Information Retrieval",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ecir/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "ESWC",
+      "full_name": "Extended Semantic Web Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/esws/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "WebDB",
+      "full_name": "International Workshop on Web and Databases",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/webdb/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "ER",
+      "full_name": "International Conference on Conceptual Modeling",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/er/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "MDM",
+      "full_name": "International Conference on Mobile Data Management",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/mdm/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "SSDBM",
+      "full_name": "International Conference on Scientific and Statistical Database Management",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ssdbm/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "WAIM",
+      "full_name": "International Conference on Web Age Information Management",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/waim/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "SSTD",
+      "full_name": "International Symposium on Spatial and Temporal Databases",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ssd/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "PAKDD",
+      "full_name": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/pakdd/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "WISE",
+      "full_name": "Web Information Systems Engineering",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/wise/",
+      "section": "数据库／数据挖掘／内容检索"
+    },
+    {
+      "key": "ADMA",
+      "full_name": "International Conference on Advanced Data Mining and Applications",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.org/db/conf/adma/index.html",
+      "section": "数据库／数据挖掘／内容检索"
+    }
+  ]
+}

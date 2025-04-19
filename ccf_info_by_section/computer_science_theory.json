@@ -1,0 +1,430 @@
+{
+  "journal_A": [
+    {
+      "key": "TIT",
+      "full_name": "IEEE Transactions on Information Theory",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tit/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "IANDC",
+      "full_name": "Information and Computation",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/iandc/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "SICOMP",
+      "full_name": "SIAM Journal on Computing",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/siamcomp/",
+      "section": "计算机科学理论"
+    }
+  ],
+  "journal_B": [
+    {
+      "key": "TALG",
+      "full_name": "ACM Transactions on Algorithms",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/talg/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "TOCL",
+      "full_name": "ACM Transactions on Computational Logic",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tocl/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "TOMS",
+      "full_name": "ACM Transactions on Mathematical Software",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/toms/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "Algorithmica",
+      "full_name": "Algorithmica",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/algorithmica/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "CC",
+      "full_name": "Computational Complexity",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/cc/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "FAC",
+      "full_name": "Formal Aspects ofComputing",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/fac/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "FMSD",
+      "full_name": "Formal Methods in SystemDesign",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/fmsd/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "INFORMS",
+      "full_name": "INFORMS Journal on Computing",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/informs/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "JCSS",
+      "full_name": "Journal of Computer and System Sciences",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/jcss/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "JGO",
+      "full_name": "Journal of GlobalOptimization",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/jgo/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "JSC",
+      "full_name": "Journal of Symbolic Computation",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/jsc/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "MSCS",
+      "full_name": "Mathematical Structuresin Computer Science",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/mscs/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "TCS",
+      "full_name": "Theoretical Computer Science",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tcs/",
+      "section": "计算机科学理论"
+    }
+  ],
+  "journal_C": [
+    {
+      "key": "ACTA",
+      "full_name": "Acta Informatica",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/acta/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "APAL",
+      "full_name": "Annals of Pure and Applied Logic",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/apal/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "DAM",
+      "full_name": "Discrete Applied Mathematics",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/dam/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "FUIN",
+      "full_name": "Fundamenta Informaticae",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/fuin/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "IPL",
+      "full_name": "Information Processing Letters",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ipl/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "JCOMPLEXITY",
+      "full_name": "Journal of Complexity",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/jc/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "LOGCOM",
+      "full_name": "Journal of Logic and Computation",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/logcom/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "JSL",
+      "full_name": "The Journal of Symbolic Logic",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/jsyml/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "LMCS",
+      "full_name": "Logical Methods in Computer Science",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/lmcs/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "SIDMA",
+      "full_name": "SIAM Journal on Discrete Mathematics",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/siamdm/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "Theory of Computing Systems",
+      "full_name": "Theory of Computing Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/mst/",
+      "section": "计算机科学理论"
+    }
+  ],
+  "conference_A": [
+    {
+      "key": "STOC",
+      "full_name": "ACM Symposium on the Theory of Computing",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/stoc/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "SODA",
+      "full_name": "ACM-SIAM Symposium on Discrete Algorithms",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/soda/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "CAV",
+      "full_name": "InternationalConference on ComputerAided Verification",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/cav/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "FOCS",
+      "full_name": "IEEE Annual Symposium on Foundations of Computer Science",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/focs/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "LICS",
+      "full_name": "ACM/IEEE Symposium on Logic in Computer Science",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/lics/",
+      "section": "计算机科学理论"
+    }
+  ],
+  "conference_B": [
+    {
+      "key": "SoCG",
+      "full_name": "International Symposium on Computational Geometry",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/compgeom/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "ESA",
+      "full_name": "European Symposium on Algorithms",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/esa/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "CCC",
+      "full_name": "Conference on Computational Complexity",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/coco/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "ICALP",
+      "full_name": "International Colloquium on Automata, Languages and Programming",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/icalp/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "International Conference on Automated Deduction/International Joint Conference on Automated Reasoning",
+      "full_name": "International Conference on Automated Deduction/International Joint Conference on Automated Reasoning",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/cade/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "CONCUR",
+      "full_name": "International Conference onConcurrency Theory",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/concur/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "HSCC",
+      "full_name": "International Conference on Hybrid Systems:Computation and Control",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/hybrid/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "SAT",
+      "full_name": "InternationalConference on Theory and Applications of Satisfiability Testing",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/sat/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "COCOON",
+      "full_name": "International Computing and Combinatorics Conference",
+      "type": "conference",
+      "rank": "B",
+      "url": "https://dblp.org/db/conf/cocoon/index.html",
+      "section": "计算机科学理论"
+    }
+  ],
+  "conference_C": [
+    {
+      "key": "CSL",
+      "full_name": "Computer Science Logic",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/csl/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "FMCAD",
+      "full_name": "Formal Methods in Computer-Aided Design",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/fmcad/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "FSTTCS",
+      "full_name": "Foundations of Software Technology and Theoretical Computer Science",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/fsttcs/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "DSAA",
+      "full_name": "IEEE InternationalConference on Data Science and Advanced Analytics",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/conf/dsaa/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "ICTAC",
+      "full_name": "International Colloquium on Theoretical Aspects of Computing",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ictac/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "IPCO",
+      "full_name": "InternationalConference on Integer Programming and Combinatorial Optimization",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ipco/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "RTA",
+      "full_name": "International Conference on Rewriting Techniques and Applications",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/rta/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "ISAAC",
+      "full_name": "International Symposium on Algorithms and Computation",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/isaac/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "MFCS",
+      "full_name": "InternationalConference on Mathematical Foundations of Computer Science",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/mfcs/",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "STACS",
+      "full_name": "Symposium on Theoretical Aspects of Computer Science",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/stacs",
+      "section": "计算机科学理论"
+    },
+    {
+      "key": "SETTA",
+      "full_name": "International Symposium on Dependable Software Engineering: Theories, Tools, and Applications",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.org/db/conf/setta/index.html",
+      "section": "计算机科学理论"
+    }
+  ]
+}

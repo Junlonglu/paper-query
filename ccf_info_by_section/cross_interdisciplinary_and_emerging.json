@@ -1,0 +1,422 @@
+{
+  "journal_A": [
+    {
+      "key": "JACM",
+      "full_name": "Journal of the ACM",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/jacm/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "Proc. IEEE",
+      "full_name": "Proceedings of the IEEE",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/pieee/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "SCIS",
+      "full_name": "Science China Information Sciences",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/chinaf/",
+      "section": "交叉·综合·新兴"
+    }
+  ],
+  "journal_B": [
+    {
+      "key": "Bioinformatics",
+      "full_name": "Bioinformatics",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/bioinformatics/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "Briefings in Bioinformatics",
+      "full_name": "Briefings in Bioinformatics",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/bib/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "Cognition",
+      "full_name": "Cognition",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://www.journals.elsevier.com/cognition/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "TASAE",
+      "full_name": "IEEE Transactions on Automation Science and Engineering",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tase/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "TGARS",
+      "full_name": "IEEE Transactions on Geoscience and Remote Sensing",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tgrs/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "TITS",
+      "full_name": "IEEE Transactions on Intelligent Transportation Systems",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tits/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "TMI",
+      "full_name": "IEEE Transactions on Medical Imaging",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tmi/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "TR",
+      "full_name": "IEEE Transactions on Robotics",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/trob/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "TCBB",
+      "full_name": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tcbb/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "JCST",
+      "full_name": "Journal of Computer Science and Technology",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/jcst/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "JAMIA",
+      "full_name": "Journal of the American Medical Informatics Association",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/jamia/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "PLOS Computational Biology",
+      "full_name": "PLOS Computational Biology",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/ploscb/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "The Computer Journal",
+      "full_name": "The Computer Journa",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/cj/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "WWW",
+      "full_name": "World Wide Web",
+      "type": "journal",
+      "rank": "B",
+      "url": "https://dblp.org/db/journals/www/index.html",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "FCS",
+      "full_name": "Frontiers of Computer Science",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/fcsc/",
+      "section": "交叉·综合·新兴"
+    }
+  ],
+  "journal_C": [
+    {
+      "key": "BMC Bioinformatics",
+      "full_name": "BMC Bioinformatics",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/bmcbi/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "Cybernetics and Systems",
+      "full_name": "Cybernetics and Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/cas/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "IEEE Geoscience and Remote Sensing Letters",
+      "full_name": "IEEE Geoscience and Remote Sensing Letters",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/lgrs/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "JBHI",
+      "full_name": "IEEE Journal of Biomedical and Health Informatics",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/titb/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "TBD",
+      "full_name": "IEEE Transactions on Big Data",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/journals/tbd/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "IET Intelligent Transport Systems",
+      "full_name": "IET Intelligent Transport Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://digital-library.theiet.org/content/journals/iet-its",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "JBI",
+      "full_name": "Journal of Biomedical Informatics",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/journals/jbi/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "Medical Image Analysis",
+      "full_name": "Medical Image Analysis",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/mia/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "THI",
+      "full_name": "IEEE Transactions on Industrial Informatics",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/tii/index.html",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "TCPS",
+      "full_name": "ACM Transactions on Cyber-Physical Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/tcpss/index.html",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "TOCE",
+      "full_name": "ACM Transactions on Computing Education",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/jeric/index.html",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "FITEE",
+      "full_name": "Frontiers of Information Technology & Electronic Engineering",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/jzusc/index.html",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "TCSS",
+      "full_name": "IEEE Transactions on Computational Social Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/tcss/index.html",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "IEEE Transactions on Reliability",
+      "full_name": "IEEE Transactions on Reliability",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/tr/index.html",
+      "section": "交叉·综合·新兴"
+    }
+  ],
+  "conference_A": [
+    {
+      "key": "WWW",
+      "full_name": "InternationalWorld Wide Web Conference",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/www/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "RTSS",
+      "full_name": "IEEE Real-Time Systems Symposium",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/rtss/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "WINE",
+      "full_name": "Conference on Web and Internet Economics",
+      "type": "conference",
+      "rank": "A",
+      "url": "https://dblp.org/db/conf/wine/index.html/",
+      "section": "交叉·综合·新兴"
+    }
+  ],
+  "conference_B": [
+    {
+      "key": "CogSci",
+      "full_name": "Annual Meeting of the Cognitive Science Society",
+      "type": "conference",
+      "rank": "B",
+      "url": "https://dblp.uni-trier.de/db/conf/cogsci/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "BIBM",
+      "full_name": "IEEE International Conference on Bioinformatics and Biomedicine",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/bibm/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "EMSOFT",
+      "full_name": "International Conference on Embedded Software",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/emsoft/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "ISMB",
+      "full_name": "International conference on Intelligent Systems for Molecular Biology",
+      "type": "conference",
+      "rank": "B",
+      "url": "https://dblp.org/db/conf/ismb/index.html",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "RECOMB",
+      "full_name": "Annual International Conference on Research in Computational Molecular Biology",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/recomb/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "MICCAI",
+      "full_name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "type": "conference",
+      "rank": "B",
+      "url": "https://dblp.org/db/conf/miccai/index.html",
+      "section": "交叉·综合·新兴"
+    }
+  ],
+  "conference_C": [
+    {
+      "key": "AMIA",
+      "full_name": "American Medical Informatics Association Annual Symposium",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/amia/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "APBC",
+      "full_name": "Asia Pacific Bioinformatics Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/apbc/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "IEEE BigData",
+      "full_name": "IEEE International Conference on Big Data",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/conf/bigdataconf/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "IEEE CLOUD",
+      "full_name": "IEEE International Conference on Cloud Computing",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/IEEEcloud/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "SMC",
+      "full_name": "IEEE International Conference on Systems, Man, and Cybernetics",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/conf/smc/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "COSIT",
+      "full_name": "International Conference on Spatial Information Theory",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/cosit/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "ISBRA",
+      "full_name": "International Symposium on Bioinformatics Research and Applications",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/conf/isbra/",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "SAGT",
+      "full_name": "International Symposium on Algorithmic Game Theory",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.org/db/conf/sagt/index.html",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "SIGSPATIAL",
+      "full_name": "ACM Special Interest Group on Spatial Information",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/sigspatial/index.html",
+      "section": "交叉·综合·新兴"
+    },
+    {
+      "key": "ICIC",
+      "full_name": "International Conference on Intelligent Computing",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.org/db/conf/icic/index.html",
+      "section": "交叉·综合·新兴"
+    }
+  ]
+}

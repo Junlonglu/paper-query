@@ -1,0 +1,642 @@
+[
+  {
+    "key": "AI",
+    "full_name": "Artificial Intelligence",
+    "type": "journal",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/journals/ai/",
+    "section": "人工智能"
+  },
+  {
+    "key": "TPAMI",
+    "full_name": "IEEE Transactions on Pattern Analysis and MachineIntelligence",
+    "type": "journal",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/journals/pami/",
+    "section": "人工智能"
+  },
+  {
+    "key": "IJCV",
+    "full_name": "InternationalJournal of Computer Vision",
+    "type": "journal",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/journals/ijcv/",
+    "section": "人工智能"
+  },
+  {
+    "key": "JMLR",
+    "full_name": "Journal of Machine Learning Research",
+    "type": "journal",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/journals/jmlr/",
+    "section": "人工智能"
+  },
+  {
+    "key": "TAP",
+    "full_name": "ACM Transactions on Applied Perception",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/tap/",
+    "section": "人工智能"
+  },
+  {
+    "key": "AAMAS",
+    "full_name": "Autonomous Agents and Multi-Agent Systems",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/aamas/",
+    "section": "人工智能"
+  },
+  {
+    "key": "Computational Linguistics",
+    "full_name": "Computational Linguistics",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/coling/",
+    "section": "人工智能"
+  },
+  {
+    "key": "CVIU",
+    "full_name": "Computer Vision and Image Understanding",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/cviu/",
+    "section": "人工智能"
+  },
+  {
+    "key": "DKE",
+    "full_name": "Data & Knowledge Engineering",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/dke/index.html",
+    "section": "人工智能"
+  },
+  {
+    "key": "Evolutionary Computation",
+    "full_name": "Evolutionary Computation",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/ec/",
+    "section": "人工智能"
+  },
+  {
+    "key": "TAC",
+    "full_name": "IEEE Transactions on Affective Computing",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/taffco/",
+    "section": "人工智能"
+  },
+  {
+    "key": "TASLP",
+    "full_name": "IEEE/ACM Transactions on Audio, Speech and Language Processing",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/taslp/",
+    "section": "人工智能"
+  },
+  {
+    "key": "IEEE Transactions on Cybernetics",
+    "full_name": "IEEE Transactions on Cybernetics",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/tcyb/",
+    "section": "人工智能"
+  },
+  {
+    "key": "TEC",
+    "full_name": "IEEE Transactions on Evolutionary Computation",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/tec/",
+    "section": "人工智能"
+  },
+  {
+    "key": "TFS",
+    "full_name": "IEEE Transactions on Fuzzy Systems",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/tfs/",
+    "section": "人工智能"
+  },
+  {
+    "key": "TNNLS",
+    "full_name": "IEEE Transactions on Neural Networks and Learning Systems",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/tnn/",
+    "section": "人工智能"
+  },
+  {
+    "key": "IJAR",
+    "full_name": "International Journal of Approximate Reasoning",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/ijar/",
+    "section": "人工智能"
+  },
+  {
+    "key": "JAIR",
+    "full_name": "Journal of Artificial Intelligence Research",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/jair/index.html",
+    "section": "人工智能"
+  },
+  {
+    "key": "Journal of Automated Reasoning",
+    "full_name": "Journal of Automated Reasoning",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/jar/",
+    "section": "人工智能"
+  },
+  {
+    "key": "JSLHR",
+    "full_name": "Journal of Speech, Language, and Hearing Research",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://jslhr.pubs.asha.org/",
+    "section": "人工智能"
+  },
+  {
+    "key": "Machine Learning",
+    "full_name": "Machine Learning",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/ml/",
+    "section": "人工智能"
+  },
+  {
+    "key": "Neural Computation",
+    "full_name": "Neural Computation",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/neco/",
+    "section": "人工智能"
+  },
+  {
+    "key": "Neural Networks",
+    "full_name": "Neural Networks",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/nn/",
+    "section": "人工智能"
+  },
+  {
+    "key": "PR",
+    "full_name": "Pattern Recognition",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/pr/",
+    "section": "人工智能"
+  },
+  {
+    "key": "TACL",
+    "full_name": "Transactions of the Association for Computational Linguistics",
+    "type": "journal",
+    "rank": "B",
+    "url": "https://dblp.org/db/journals/tacl/index.html",
+    "section": "人工智能"
+  },
+  {
+    "key": "AAAI",
+    "full_name": "AAAI Conference on Artificial Intelligence",
+    "type": "conference",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/conf/aaai/",
+    "section": "人工智能"
+  },
+  {
+    "key": "NeurIPS",
+    "full_name": "Conference on Neural Information Processing Systems",
+    "type": "conference",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/conf/nips/",
+    "section": "人工智能"
+  },
+  {
+    "key": "ACL",
+    "full_name": "Annual Meeting of the Association for Computational Linguistics",
+    "type": "conference",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/conf/acl/",
+    "section": "人工智能"
+  },
+  {
+    "key": "CVPR",
+    "full_name": "IEEE/CVF Computer Vision and Pattern Recognition Conference",
+    "type": "conference",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/conf/cvpr/",
+    "section": "人工智能"
+  },
+  {
+    "key": "ICCV",
+    "full_name": "International Conference on Computer Vision",
+    "type": "conference",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/conf/iccv/",
+    "section": "人工智能"
+  },
+  {
+    "key": "ICML",
+    "full_name": "International Conference on Machine Learning",
+    "type": "conference",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/conf/icml/",
+    "section": "人工智能"
+  },
+  {
+    "key": "IJCAI",
+    "full_name": "International Joint Conference on Artificial Intelligence",
+    "type": "conference",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/conf/ijcai/",
+    "section": "人工智能"
+  },
+  {
+    "key": "COLT",
+    "full_name": "Annual Conference on Computational Learning Theory",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/colt/",
+    "section": "人工智能"
+  },
+  {
+    "key": "EMNLP",
+    "full_name": "Conference on Empirical Methods in Natural Language Processing",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/emnlp/",
+    "section": "人工智能"
+  },
+  {
+    "key": "ECAI",
+    "full_name": "European Conference on Artificial Intelligence",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/ecai/",
+    "section": "人工智能"
+  },
+  {
+    "key": "ECCV",
+    "full_name": "European Conference on Computer Vision",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/eccv/",
+    "section": "人工智能"
+  },
+  {
+    "key": "ICRA",
+    "full_name": "IEEE International Conference on Robotics and Automation",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/icra/",
+    "section": "人工智能"
+  },
+  {
+    "key": "ICAPS",
+    "full_name": "International Conference on Automated Planning and Scheduling",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/aips/",
+    "section": "人工智能"
+  },
+  {
+    "key": "ICCBR",
+    "full_name": "International Conference on Case-Based Reasoning",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/iccbr/",
+    "section": "人工智能"
+  },
+  {
+    "key": "COLING",
+    "full_name": "International Conference on Computational Linguistics",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/coling/",
+    "section": "人工智能"
+  },
+  {
+    "key": "KR",
+    "full_name": "International Conference on Principles of Knowledge Representation and Reasoning",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/kr/",
+    "section": "人工智能"
+  },
+  {
+    "key": "UAI",
+    "full_name": "Conference on Uncertainty in Artificial Intelligence",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/uai/",
+    "section": "人工智能"
+  },
+  {
+    "key": "AAMAS",
+    "full_name": "International Joint Conference on Autonomous Agents and Multi-Agent Systems",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/atal/index.html",
+    "section": "人工智能"
+  },
+  {
+    "key": "PPSN",
+    "full_name": "Parallel Problem Solving from Nature",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/ppsn/",
+    "section": "人工智能"
+  },
+  {
+    "key": "NAACL",
+    "full_name": "North American Chapter of the Association for Computational Linguistics",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/naacl/",
+    "section": "人工智能"
+  },
+  {
+    "key": "TODS",
+    "full_name": "ACM Transactions on Database Systems",
+    "type": "journal",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/journals/tods/",
+    "section": "数据库·数据挖掘·内容检索"
+  },
+  {
+    "key": "TOIS",
+    "full_name": "ACM Transactions on Information Systems",
+    "type": "journal",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/journals/tois/",
+    "section": "数据库·数据挖掘·内容检索"
+  },
+  {
+    "key": "TKDE",
+    "full_name": "IEEE Transactions on Knowledge and Data Engineering",
+    "type": "journal",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/journals/tkde/",
+    "section": "数据库·数据挖掘·内容检索"
+  },
+  {
+    "key": "VLDBJ",
+    "full_name": "TheVLDB Journal",
+    "type": "journal",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/journals/vldb/",
+    "section": "数据库·数据挖掘·内容检索"
+  },
+  {
+    "key": "TKDD",
+    "full_name": "ACM Transactions on Knowledge Discovery from Data",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/tkdd/",
+    "section": "数据库·数据挖掘·内容检索"
+  },
+  {
+    "key": "TWEB",
+    "full_name": "ACM Transactions on the Web",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/tweb/",
+    "section": "数据库·数据挖掘·内容检索"
+  },
+  {
+    "key": "AEI",
+    "full_name": "Advanced Engineering Informatics",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/aei/",
+    "section": "数据库·数据挖掘·内容检索"
+  },
+  {
+    "key": "DKE",
+    "full_name": "Data & Knowledge Engineering",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/dke/",
+    "section": "数据库·数据挖掘·内容检索"
+  },
+  {
+    "key": "DMKD",
+    "full_name": "Data Mining and Knowledge Discovery",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/datamine/",
+    "section": "数据库·数据挖掘·内容检索"
+  },
+  {
+    "key": "EJIS",
+    "full_name": "European Journal of Information Systems",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/ejis/",
+    "section": "数据库·数据挖掘·内容检索"
+  },
+  {
+    "key": "GeoInformatica",
+    "full_name": "GeoInformatica",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/geoinformatica/",
+    "section": "数据库·数据挖掘·内容检索"
+  },
+  {
+    "key": "IPM",
+    "full_name": "Information Processing and Management",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/ipm/",
+    "section": "数据库·数据挖掘·内容检索"
+  },
+  {
+    "key": "Information Sciences",
+    "full_name": "Information Sciences",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/isci/",
+    "section": "数据库·数据挖掘·内容检索"
+  },
+  {
+    "key": "IS",
+    "full_name": "Information Systems",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/is/",
+    "section": "数据库·数据挖掘·内容检索"
+  },
+  {
+    "key": "JASIST",
+    "full_name": "Journal of the Association for Information Science and Technology",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/jasis/",
+    "section": "数据库·数据挖掘·内容检索"
+  },
+  {
+    "key": "JWS",
+    "full_name": "Journal of Web Semantics",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/ws/",
+    "section": "数据库·数据挖掘·内容检索"
+  },
+  {
+    "key": "KAIS",
+    "full_name": "Knowledge and Information Systems",
+    "type": "journal",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/journals/kais/",
+    "section": "数据库·数据挖掘·内容检索"
+  },
+  {
+    "key": "SIGMOD",
+    "full_name": "ACM SIGMOD Conference",
+    "type": "conference",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/conf/sigmod/",
+    "section": "数据库／数据挖掘／内容检索"
+  },
+  {
+    "key": "SIGKDD",
+    "full_name": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "type": "conference",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/conf/kdd/",
+    "section": "数据库／数据挖掘／内容检索"
+  },
+  {
+    "key": "ICDE",
+    "full_name": "IEEE International Conference on Data Engineering",
+    "type": "conference",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/conf/icde/",
+    "section": "数据库／数据挖掘／内容检索"
+  },
+  {
+    "key": "SIGIR",
+    "full_name": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "type": "conference",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/conf/sigir/",
+    "section": "数据库／数据挖掘／内容检索"
+  },
+  {
+    "key": "VLDB",
+    "full_name": "International Conference on Very Large Data Bases",
+    "type": "conference",
+    "rank": "A",
+    "url": "http://dblp.uni-trier.de/db/conf/vldb/",
+    "section": "数据库／数据挖掘／内容检索"
+  },
+  {
+    "key": "CIKM",
+    "full_name": "ACM International Conference on Information and Knowledge Management",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/cikm/",
+    "section": "数据库／数据挖掘／内容检索"
+  },
+  {
+    "key": "WSDM",
+    "full_name": "ACM International Conference on Web Search and Data Mining",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/wsdm/",
+    "section": "数据库／数据挖掘／内容检索"
+  },
+  {
+    "key": "PODS",
+    "full_name": "ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/pods/",
+    "section": "数据库／数据挖掘／内容检索"
+  },
+  {
+    "key": "DASFAA",
+    "full_name": "International Conference on Database Systems for Advanced Applications",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/dasfaa/",
+    "section": "数据库／数据挖掘／内容检索"
+  },
+  {
+    "key": "ECML",
+    "full_name": "European Conference on Machine Learning",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/ecml/",
+    "section": "数据库／数据挖掘／内容检索"
+  },
+  {
+    "key": "PKDD",
+    "full_name": "Principles and Practice of Knowledge Discovery in Databases",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/pkdd/",
+    "section": "数据库／数据挖掘／内容检索"
+  },
+  {
+    "key": "ISWC",
+    "full_name": "IEEE International Semantic Web Conference",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/semweb/",
+    "section": "数据库／数据挖掘／内容检索"
+  },
+  {
+    "key": "ICDM",
+    "full_name": "IEEE International Conference on Data Mining",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/icdm/",
+    "section": "数据库／数据挖掘／内容检索"
+  },
+  {
+    "key": "ICDT",
+    "full_name": "International Conference on Database Theory",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/icdt/",
+    "section": "数据库／数据挖掘／内容检索"
+  },
+  {
+    "key": "EDBT",
+    "full_name": "International Conference on Extending Database Technology",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/edbt/",
+    "section": "数据库／数据挖掘／内容检索"
+  },
+  {
+    "key": "CIDR",
+    "full_name": "Conference on Innovative Data Systems Research",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/cidr/",
+    "section": "数据库／数据挖掘／内容检索"
+  },
+  {
+    "key": "SDM",
+    "full_name": "SIAM International Conference on Data Mining",
+    "type": "conference",
+    "rank": "B",
+    "url": "http://dblp.uni-trier.de/db/conf/sdm/",
+    "section": "数据库／数据挖掘／内容检索"
+  },
+  {
+    "key": "RecSys",
+    "full_name": "ACM Conference on Recommender Systems",
+    "type": "conference",
+    "rank": "B",
+    "url": "https://dblp.org/db/conf/recsys/index.html",
+    "section": "数据库／数据挖掘／内容检索"
+  }
+]

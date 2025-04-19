@@ -4,17 +4,17 @@ import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 
-from constant import VENUE_TYPES, venues
+from ccf_info_by_section import VENUE_TYPES
 from tools.timer import Timer
 
 
 class PaperQuery:
 
-    def __init__(self, output_dir: str = "query_result"):
+    def __init__(self, venues:list, output_dir: str = "query_result"):
         """
         初始化 PaperQuery 类
         """
-        self.venues = venues  # 从外部加载 venues
+        self.venues = venues
         self.output_dir = output_dir
         self.timer = Timer()  # 初始化计时器
 
@@ -157,6 +157,10 @@ class PaperQuery:
                 print(f"⚠️ 未知的 venue 类型：{venue_type}")
                 continue
 
+            if len(links_by_year) == 0:
+                print(f"⚠️ 没有找到符合条件的卷链接，跳过 {venue_key}")
+                continue
+
             for year, volume_links in links_by_year.items():
                 for volume_link in tqdm(volume_links, desc=f"{venue_key} ({year})"):
                     try:
@@ -169,7 +173,7 @@ class PaperQuery:
                     except Exception as e:
                         print(f"[错误] 处理 {volume_link} 时失败: {e}")
 
-            self.timer.stop(f"处理 {venue_key}")  # 停止处理单个 venue 的计时
+            self.timer.stop(f"处理 {venue_key}\n")  # 停止处理单个 venue 的计时
 
         if results:
             if not os.path.exists(self.output_dir):

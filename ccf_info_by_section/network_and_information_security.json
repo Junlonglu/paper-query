@@ -1,0 +1,486 @@
+{
+  "journal_A": [
+    {
+      "key": "TDSC",
+      "full_name": "IEEE Transactions on Dependable and Secure Computing",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tdsc/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "TIFS",
+      "full_name": "IEEE Transactions on Information Forensics and Security",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tifs/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "Journal of Cryptology",
+      "full_name": "Journal of Cryptology",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/joc/",
+      "section": "网络与信息安全"
+    }
+  ],
+  "journal_B": [
+    {
+      "key": "TOPS",
+      "full_name": "ACM Transactions on Privacy and Security",
+      "type": "journal",
+      "rank": "B",
+      "url": "https://dblp.org/db/journals/tissec/index.htm",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "Computers & Security",
+      "full_name": "Computers & Security",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/compsec/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "Designs,Codes and Cryptography",
+      "full_name": "Designs,Codes and Cryptography",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/dcc/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "JCS",
+      "full_name": "Journal of Computer Security",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/jcs/",
+      "section": "网络与信息安全"
+    }
+  ],
+  "journal_C": [
+    {
+      "key": "CLSR",
+      "full_name": "Computer Law & Security Review",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/clsr/index.html",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "EURASIP Journal on Information Security",
+      "full_name": "EURASIP Journal on Information Security",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ejisec/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "IET Information Security",
+      "full_name": "IET Information Security",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/iet-ifs/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "IMCS",
+      "full_name": "Information and Computer Security",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/imcs/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "IJICS",
+      "full_name": "International Journal of Information and Computer Security",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ijics/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "IJISP",
+      "full_name": "International Journal of Information Security and Privacy",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ijisp/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "JISA",
+      "full_name": "Journal of Information Security and Applications",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/journals/istr/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "SCN",
+      "full_name": "Security and Communication Networks",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/scn/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "Cybersecurity",
+      "full_name": "Cybersecurity",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/journals/cybersec/index.html",
+      "section": "网络与信息安全"
+    }
+  ],
+  "conference_A": [
+    {
+      "key": "CCS",
+      "full_name": "ACM Conference on Computer and Communications Security",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/ccs/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "EUROCRYPT",
+      "full_name": "International Conference on the Theory and Applications of Cryptographic Techniques",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/eurocrypt/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "S&P",
+      "full_name": "IEEE Symposium on Security and Privacy",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/sp/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "CRYPTO",
+      "full_name": "International Cryptology Conference",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/crypto/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "USENIX_Security",
+      "full_name": "USENIX Security Symposium",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/uss/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "NDSS",
+      "full_name": "Network and Distributed System Security Symposium",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/ndss/",
+      "section": "网络与信息安全"
+    }
+  ],
+  "conference_B": [
+    {
+      "key": "ACSAC",
+      "full_name": "Annual Computer Security Applications Conference",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/acsac/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "ASIACRYPT",
+      "full_name": "Annual International Conference on the Theory and Application of Cryptology and Information Security",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/asiacrypt/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "ESORICS",
+      "full_name": "European Symposium on Research in Computer Security",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/esorics/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "FSE",
+      "full_name": "Fast Software Encryption",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/fse/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "CSFW",
+      "full_name": "IEEE Computer Security Foundations Workshop",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/csfw/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "SRDS",
+      "full_name": "IEEE International Symposium on Reliable Distributed Systems",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/srds/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "CHES",
+      "full_name": "International Conference on Cryptographic Hardware and Embedded Systems",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/ches/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "DSN",
+      "full_name": "International Conference on Dependable Systems and Networks",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/dsn/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "RAID",
+      "full_name": "International Symposium on Recent Advances in Intrusion Detection",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/raid/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "PKC",
+      "full_name": "International Workshop on Practice and Theory in Public Key Cryptography",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/pkc/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "TCC",
+      "full_name": "Theory of Cryptography Conference",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/tcc/",
+      "section": "网络与信息安全"
+    }
+  ],
+  "conference_C": [
+    {
+      "key": "WiSec",
+      "full_name": "ACM Conference on Security and Privacy in Wireless and Mobile Networks",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/wisec/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "SACMAT",
+      "full_name": "ACM Symposium on Access Control Models and Technologies",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/sacmat/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "DRM",
+      "full_name": "ACM Workshop on Digital Rights Management",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/drm/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "IH&MMSec",
+      "full_name": "ACM Workshop on Information Hiding and Multimedia Security",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ih/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "ACNS",
+      "full_name": "International Conference on Applied Cryptography and Network Security",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/acns/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "AsiaCCS",
+      "full_name": "ACM Asia Conference on Computer and Communications Security",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ccs/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "ACISP",
+      "full_name": "Australasian Conference on Information Security and Privacy",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/acisp/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "CT-RSA",
+      "full_name": "The Cryptographer's Track at RSA Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ctrsa/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "DIMVA",
+      "full_name": "Conference on Detection of Intrusions and Malware & Vulnerability Assessment",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/dimva/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "DFRWS",
+      "full_name": "Digital Forensic Research Workshop",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/dfrws/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "FC",
+      "full_name": "Financial Cryptography and Data Security",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/fc/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "TrustCom",
+      "full_name": "IEEE International Conference on Trust, Security and Privacy in Computing and Communications",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/trustcom/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "SEC",
+      "full_name": "IFIP International Information Security Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/sec/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "IFIP WG 11.9",
+      "full_name": "IFIP Working Group 11.9 International Conference on Digital Forensics",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.org/db/conf/ifip11-9/index.html",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "ISC",
+      "full_name": "Information Security Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/isw/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "ICDF2C",
+      "full_name": "International Conference on Digital Forensics & Cyber Crime",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/icdf2c/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "ICICS",
+      "full_name": "International Conference on Information and Communications Security",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/icics/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "SecureComm",
+      "full_name": "International Conference on Security and Privacy in Communication Networks",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/securecomm/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "NSPW",
+      "full_name": "New Security Paradigms Workshop",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/nspw/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "PAM",
+      "full_name": "Passive and Active Measurement Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/pam/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "PETS",
+      "full_name": "Privacy Enhancing Technologies Symposium",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/pet/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "SAC",
+      "full_name": "Selected Areas in Cryptography",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/sacrypt/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "SOUPS",
+      "full_name": "Symposium On Usable Privacy and Security",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/soups/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "HotSec",
+      "full_name": "HotSec",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://www.usenix.org/events/",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "EuroS&P",
+      "full_name": "IEEE European Symposium on Security and Privacy",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.org/db/conf/eurosp/index.html",
+      "section": "网络与信息安全"
+    },
+    {
+      "key": "Inscrypt",
+      "full_name": "International Conference on Information Security and Cryptology",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.org/db/conf/cisc/index.html",
+      "section": "网络与信息安全"
+    }
+  ]
+}

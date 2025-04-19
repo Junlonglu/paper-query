@@ -1,0 +1,446 @@
+{
+  "journal_A": [
+    {
+      "key": "JSAC",
+      "full_name": "IEEE Journal on Selected Areas in Communications",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/jsac/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "TMC",
+      "full_name": "IEEE Transactions on Mobile Computing",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tmc/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "TON",
+      "full_name": "IEEE/ACM Transactions on Networking",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/ton/",
+      "section": "计算机网络"
+    }
+  ],
+  "journal_B": [
+    {
+      "key": "TOIT",
+      "full_name": "ACM Transactions on Internet Technology",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/toit/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "TOMM",
+      "full_name": "ACM Transactions on Multimedia Computing,Communications and Applications",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tomccap/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "TOSN",
+      "full_name": "ACM Transactions on Sensor Networks",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tosn/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "CN",
+      "full_name": "Computer Networks",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/cn/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "TCOM",
+      "full_name": "IEEE Transactions on Communications",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tcom/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "TWC",
+      "full_name": "IEEE Transactions on Wireless Communications",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/twc/",
+      "section": "计算机网络"
+    }
+  ],
+  "journal_C": [
+    {
+      "key": "Ad Hoc Networks",
+      "full_name": "Ad Hoc Networks",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/adhoc/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "CC",
+      "full_name": "Computer Communications",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/comcom/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "TNSM",
+      "full_name": "IEEE Transactions on Network and Service Management",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/tnsm/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "IET Communications",
+      "full_name": "IET Communications",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/iet-com/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "JNCA",
+      "full_name": "Journal of Network and Computer Applications",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/jnca/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "MONET",
+      "full_name": "Mobile Networks andApplications",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/monet/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "Networks",
+      "full_name": "Networks",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/networks/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "PPNA",
+      "full_name": "Peer-to-Peer Networking and Applications",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ppna/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "WCMC",
+      "full_name": "Wireless Communications and Mobile Computing",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/wicomm/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "Wireless Networks",
+      "full_name": "Wireless Networks",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/winet/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "IOT",
+      "full_name": "IEEE Internet of Things Journal",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/iotj/index.html",
+      "section": "计算机网络"
+    }
+  ],
+  "conference_A": [
+    {
+      "key": "SIGCOMM",
+      "full_name": "ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/sigcomm/index.html",
+      "section": "计算机网络"
+    },
+    {
+      "key": "MobiCom",
+      "full_name": "ACM International Conference on Mobile Computing and Networking",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/mobicom/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "INFOCOM",
+      "full_name": "IEEE International Conference on Computer Communications",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/infocom/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "NSDI",
+      "full_name": "Symposium on Network System Design and Implementation",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/nsdi/",
+      "section": "计算机网络"
+    }
+  ],
+  "conference_B": [
+    {
+      "key": "SenSys",
+      "full_name": "ACM Conference on Embedded Networked Sensor Systems",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/sensys/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "CoNEXT",
+      "full_name": "ACM International Conference on Emerging Networking Experiments and Technologies",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/conext/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "SECON",
+      "full_name": "IEEE International Conference on Sensing, Communication, and Networking",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/secon/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "IPSN",
+      "full_name": "International Conference on Information Processing in Sensor Networks",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/ipsn/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "MobiSys",
+      "full_name": "ACM International Conference on Mobile Systems, Applications, and Services",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/mobisys/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "ICNP",
+      "full_name": "IEEE International Conference on Network Protocols",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/icnp/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "MobiHoc",
+      "full_name": "International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/mobihoc/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "NOSSDAV",
+      "full_name": "International Workshop on Network and Operating System Support for Digital Audio and Video",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/nossdav/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "IWQoS",
+      "full_name": "IEEE/ACM International Workshop on Quality of Service",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/iwqos/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "IMC",
+      "full_name": "ACM Internet Measurement Conference",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/imc/",
+      "section": "计算机网络"
+    }
+  ],
+  "conference_C": [
+    {
+      "key": "ANCS",
+      "full_name": "ACM/IEEE Symposium on Architectures for Networking and Communication Systems",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ancs/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "APNOMS",
+      "full_name": "Asia-Pacific Network Operations and Management Symposium",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/apnoms/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "FORTE",
+      "full_name": "International Conference on Formal Techniques for Distributed Objects, Components, and Systems",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/forte/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "LCN",
+      "full_name": "IEEE Conference on Local Computer Networks",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/lcn/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "GLOBECOM",
+      "full_name": "IEEE Global Communications Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/globecom/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "ICC",
+      "full_name": "IEEE International Conference on Communications",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/icc/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "ICCCN",
+      "full_name": "IEEE International Conference on Computer Communications and Networks",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/icccn/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "MASS",
+      "full_name": "IEEE International Conference on Mobile Adhoc and Sensor Systems",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/mass/index.html",
+      "section": "计算机网络"
+    },
+    {
+      "key": "P2P",
+      "full_name": "IEEE International Conference on Peer-to-Peer Computing",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/p2p/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "IPCCC",
+      "full_name": "IEEE International Performance Computing and Communications Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ipccc/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "WoWMoM",
+      "full_name": "IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/wowmom/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "ISCC",
+      "full_name": "IEEE Symposium on Computers and Communications",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/iscc/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "WCNC",
+      "full_name": "IEEE Wireless Communications and Networking Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/wcnc/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "Networking",
+      "full_name": "IFIP International Conferences on Networking",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/networking/index.html",
+      "section": "计算机网络"
+    },
+    {
+      "key": "IM",
+      "full_name": "IFIP/IEEE International Symposium on Integrated Network Management",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/im/index.html",
+      "section": "计算机网络"
+    },
+    {
+      "key": "MSN",
+      "full_name": "International Conference on Mobility, Sensing and Networking",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/conf/msn/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "MSWiM",
+      "full_name": "International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/mswim/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "WASA",
+      "full_name": "The International Conference on Wireless Artificial Intelligent Computing Systems and Applications",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/wasa/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "HotNets",
+      "full_name": "ACM The Workshop on Hot Topics in Networks",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/hotnets/",
+      "section": "计算机网络"
+    },
+    {
+      "key": "APNet",
+      "full_name": "Asia-Pacific Workshop on Networking",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.org/db/conf/apnet/index.html",
+      "section": "计算机网络"
+    }
+  ]
+}

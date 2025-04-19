@@ -1,0 +1,654 @@
+{
+  "journal_A": [
+    {
+      "key": "TOPLAS",
+      "full_name": "ACM Transactions on Programming Languages and Systems",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/toplas/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "TOSEM",
+      "full_name": "ACM Transactions on Software Engineering and Methodology",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tosem/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "TSE",
+      "full_name": "IEEE Transactions on Software Engineering",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tse/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "TSC",
+      "full_name": "IEEE Transactions on Services Computing",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tsc/",
+      "section": "软件工程·系统软件·程序设计语言"
+    }
+  ],
+  "journal_B": [
+    {
+      "key": "ASE",
+      "full_name": "Automated Software Engineering",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/ase/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ESE",
+      "full_name": "Empirical Software Engineering",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/ese/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "IETS",
+      "full_name": "IET Software",
+      "type": "journal",
+      "rank": "B",
+      "url": "https://dblp.uni-trier.de/db/journals/iet-sen/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "IST",
+      "full_name": "Information and Software Technology",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/infsof/index.html",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "JFP",
+      "full_name": "Journal of Functional Programming",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/jfp/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "Journal of Software: Evolution and Process",
+      "full_name": "Journal of Software: Evolution and Process",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/smr/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "JSS",
+      "full_name": "Journal of Systems and Software",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/jss/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "RE",
+      "full_name": "Requirements Engineering",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/re/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "SCP",
+      "full_name": "Science of Computer Programming",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/scp/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "SoSyM",
+      "full_name": "Software and Systems Modeling",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/sosym/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "STVR",
+      "full_name": "Software Testing, Verification and Reliability",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/stvr/index.html",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "SPE",
+      "full_name": "Software: Practice and Experience",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/spe/",
+      "section": "软件工程·系统软件·程序设计语言"
+    }
+  ],
+  "journal_C": [
+    {
+      "key": "CL",
+      "full_name": "Computer Languages, Systems and Structures",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/cl/index.html",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "IJSEKE",
+      "full_name": "International Journal of Software Engineering and Knowledge Engineering",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ijseke/index.html",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "STTT",
+      "full_name": "International Journal of Software Tools for Technology Transfer",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/sttt/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "JLAMP",
+      "full_name": "Journal of Logical and Algebraic Methods in Programming",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/journals/jlap/index.html",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "JWE",
+      "full_name": "Journal of Web Engineering",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/jwe/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "SOCA",
+      "full_name": "Service Oriented Computing and Applications",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/soca/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "SQJ",
+      "full_name": "Software Quality Journal",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/sqj/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "TPLP",
+      "full_name": "Theory and Practice of Logic Programming",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/tplp/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "PACMPL",
+      "full_name": "Proceedings of the ACM on Programming Languages",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/pacmpl/index.html",
+      "section": "软件工程·系统软件·程序设计语言"
+    }
+  ],
+  "conference_A": [
+    {
+      "key": "PLDI",
+      "full_name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/pldi/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "POPL",
+      "full_name": "ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/popl/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "FSE",
+      "full_name": "ACM International Conference on the Foundations of Software Engineering",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/sigsoft/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "SOSP",
+      "full_name": "ACM Symposium on Operating Systems Principles",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/sosp/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "OOPSLA",
+      "full_name": "Conference on Object-Oriented Programming Systems, Languages, and Applications",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/oopsla/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ASE",
+      "full_name": "International Conference on Automated Software Engineering",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/kbse/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ICSE",
+      "full_name": "International Conference on Software Engineering",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/icse/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ISSTA",
+      "full_name": "International Symposium on Software Testing and Analysis",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/issta/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "OSDI",
+      "full_name": "USENIX Symposium on Operating Systems Design and Implementation",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/osdi/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "FM",
+      "full_name": "International Symposium on Formal Methods",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/fm/",
+      "section": "软件工程·系统软件·程序设计语言"
+    }
+  ],
+  "conference_B": [
+    {
+      "key": "ECOOP",
+      "full_name": "European Conference on Object-Oriented Programming",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/ecoop/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ETAPS",
+      "full_name": "European Joint Conferences on Theory and Practice of Software",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/etaps/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ICPC",
+      "full_name": "IEEE International Conference on Program Comprehension",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/iwpc/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "RE",
+      "full_name": "IEEE International Requirements Engineering Conference",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/re/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "CAiSE",
+      "full_name": "International Conference on Advanced Information Systems Engineering",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/caise/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ICFP",
+      "full_name": "ACM SIGPLAN International Conference on Functional Programming",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/icfp/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "LCTES",
+      "full_name": "ACM SIGPLAN/SIGBED International Conference on Languages, Compilers and Tools for Embedded Systems",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/lctrts/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "MoDELS",
+      "full_name": "ACM/IEEE International Conference on Model Driven Engineering Languages and Systems",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/models/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "CP",
+      "full_name": "International Conference on Principles and Practice of Constraint Programming",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/cp/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ICSOC",
+      "full_name": "International Conference on Service Oriented Computing",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/icsoc/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "SANER",
+      "full_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/wcre/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ICSME",
+      "full_name": "International Conference on Software Maintenance and Evolution",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/icsm/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "VMCAI",
+      "full_name": "International Conference on Verification, Model Checking and Abstract Interpretation",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/vmcai/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ICWS",
+      "full_name": "IEEE International Conference on Web Services",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/icws/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "Middleware",
+      "full_name": "International Middleware Conference",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/middleware/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "SAS",
+      "full_name": "International Static Analysis Symposium",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/sas/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ESEM",
+      "full_name": "International Symposium on Empirical Software Engineering and Measurement",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/esem/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ISSRE",
+      "full_name": "IEEE International Symposium on Software Reliability Engineering",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/issre/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "HotOS",
+      "full_name": "USENIX Workshop on Hot Topics in Operating Systems",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/hotos/",
+      "section": "软件工程·系统软件·程序设计语言"
+    }
+  ],
+  "conference_C": [
+    {
+      "key": "PEPM",
+      "full_name": "ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/pepm/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "PASTE",
+      "full_name": "ACMSIGPLAN-SIGSOFT Workshop on Program Analysis for Software Tools and Engineering",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/paste/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "APLAS",
+      "full_name": "Asian Symposium on Programming Languages and Systems",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/aplas/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "APSEC",
+      "full_name": "Asia-Pacific Software Engineering Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/apsec/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "EASE",
+      "full_name": "International Conference on Evaluation and Assessment in Software Engineering",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ease/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ICECCS",
+      "full_name": "International Conference on Engineering of Complex Computer Systems",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/iceccs/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ICST",
+      "full_name": "IEEE International Conference on Software Testing, Verification and Validation",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/icst/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ISPASS",
+      "full_name": "IEEE International Symposium on Performance Analysis of Systems and Software",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ispass/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "SCAM",
+      "full_name": "IEEE International Working Conference on Source Code Analysis and Manipulation",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/scam/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "COMPSAC",
+      "full_name": "International Computer Software and Applications Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/compsac/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ICFEM",
+      "full_name": "International Conference on Formal Engineering Methods",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/icfem/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "SSE",
+      "full_name": "IEEE International Conference on Software Services Engineering",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/IEEEscc/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ICSSP",
+      "full_name": "International Conference on Software and System Process",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ispw/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "SEKE",
+      "full_name": "International Conference on Software Engineering and Knowledge Engineering",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/seke/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "QRS",
+      "full_name": "International Conference on Software Quality, Reliability and Security",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/conf/qrs/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ICSR",
+      "full_name": "International Conference on Software Reuse",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/icsr/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ICWE",
+      "full_name": "International Conference on Web Engineering",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/icwe/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "SPIN",
+      "full_name": "International Symposium on Model Checking of Software",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/spin/index.html",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "ATVA",
+      "full_name": "International Symposium on Automated Technology for Verification and Analysis",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/atva/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "LOPSTR",
+      "full_name": "International Symposium on Logic-based Program Synthesis and Transformation",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/lopstr/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "TASE",
+      "full_name": "Theoretical Aspects of Software Engineering Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/tase/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "MSR",
+      "full_name": "Mining Software Repositories",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/msr/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "REFSQ",
+      "full_name": "Requirements Engineering: Foundation for Software Quality",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/refsq/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "WICSA",
+      "full_name": "Working IEEE/IFIP Conference on Software Architecture",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/wicsa/",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "Internetworkware",
+      "full_name": "Asia-Pacific Symposium on Internetworkware",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.org/db/conf/internetworkware/index.html",
+      "section": "软件工程·系统软件·程序设计语言"
+    },
+    {
+      "key": "RV",
+      "full_name": "International Conference on Runtime Verification",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.org/db/conf/rv/index.html",
+      "section": "软件工程·系统软件·程序设计语言"
+    }
+  ]
+}

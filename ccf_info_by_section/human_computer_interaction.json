@@ -1,0 +1,310 @@
+{
+  "journal_A": [
+    {
+      "key": "TOCHI",
+      "full_name": "ACM Transactions on Computer-Human Interaction",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tochi/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "IJHCS",
+      "full_name": "International Journal of Human-Computer Studies",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/ijmms/",
+      "section": "人机交互与普适计算"
+    }
+  ],
+  "journal_B": [
+    {
+      "key": "CSCW",
+      "full_name": "Computer Supported Cooperative Work",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/cscw/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "HCI",
+      "full_name": "Human-Computer Interaction",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/hhci/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "IEEE Transactions on Human-Machine Systems",
+      "full_name": "IEEE Transactions on Human-Machine Systems",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/thms/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "IWC",
+      "full_name": "Interacting with Computers",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/iwc/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "IJHCI",
+      "full_name": "International Journal of Human-Computer Interaction",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/ijhci/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "UMUAI",
+      "full_name": "User Modeling and User-Adapted Interaction",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/umuai/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "TSMC",
+      "full_name": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+      "type": "journal",
+      "rank": "B",
+      "url": "https://dblp.org/db/journals/tsmc/tsmc12.html",
+      "section": "人机交互与普适计算"
+    }
+  ],
+  "journal_C": [
+    {
+      "key": "BIT",
+      "full_name": "Behaviour & Information Technology",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/behaviourIT/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "PUC",
+      "full_name": "Personal and Ubiquitous Computing",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/puc/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "PMC",
+      "full_name": "Pervasive and Mobile Computing",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/percom/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "PACMHCI",
+      "full_name": "Proceedings of the ACM on Human-Computer Interaction",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/pacmhci/index.html",
+      "section": "人机交互与普适计算"
+    }
+  ],
+  "conference_A": [
+    {
+      "key": "CSCW",
+      "full_name": "ACM Conference On Computer-Supported Cooperative Work And Social Computing",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/cscw/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "CHI",
+      "full_name": "ACM Conference on Human Factors in Computing Systems",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/chi/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "UbiComp",
+      "full_name": "ACM International Joint Conference on Pervasive and Ubiquitous Computing",
+      "type": "conference",
+      "rank": "A",
+      "url": "https://dblp.uni-trier.de/db/conf/huc/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "UIST",
+      "full_name": "ACM Symposium on User Interface Software and Technology",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/uist/",
+      "section": "人机交互与普适计算"
+    }
+  ],
+  "conference_B": [
+    {
+      "key": "GROUP",
+      "full_name": "ACM International Conference on Supporting Group Work",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/group/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "IUI",
+      "full_name": "ACM International Conference on Intelligent User Interfaces",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/iui/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "ISS",
+      "full_name": "ACM International Conference on Interactive Surfaces and Spaces",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/tabletop/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "ECSCW",
+      "full_name": "European Conference on Computer Supported Cooperative Work",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/ecscw/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "PERCOM",
+      "full_name": "IEEE International Conference on Pervasive Computing and Communications",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/percom/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "MobileHCI",
+      "full_name": "ACM International Conference on Mobile Human-Computer Interaction",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/mhci/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "ICWSM",
+      "full_name": "The International AAAI Conference on Web and Social Media",
+      "type": "conference",
+      "rank": "B",
+      "url": "https://dblp.org/db/conf/icwsm/index.html",
+      "section": "人机交互与普适计算"
+    }
+  ],
+  "conference_C": [
+    {
+      "key": "DIS",
+      "full_name": "ACM SIGCHI Conference on Designing Interactive Systems",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ACMdis/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "ICMI",
+      "full_name": "ACM International Conference on Multimodal Interaction",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/icmi/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "ASSETS",
+      "full_name": "International ACM SIGACCESS Conference on Computers and Accessibility",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/assets/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "GI",
+      "full_name": "Graphics Interface",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/graphicsinterface/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "UIC",
+      "full_name": "IEEE International Conference on Ubiquitous Intelligence and Computing",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/uic/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "IEEE World Haptics Conference",
+      "full_name": "IEEE World Haptics Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/haptics/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "INTERACT",
+      "full_name": "International Conference on Human-Computer Interaction of International Federation for Information Processing",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/interact/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "IDC",
+      "full_name": "ACM Interaction Design and Children",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/acmidc/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "CollaborateCom",
+      "full_name": "International Conference on Collaborative Computing: Networking, Applications and Worksharing",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/conf/colcom/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "CSCWD",
+      "full_name": "International Conference on Computer Supported Cooperative Work in Design",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/cscwd/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "CoopIS",
+      "full_name": "International Conference on Cooperative Information Systems",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/coopis/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "MobiQuitous",
+      "full_name": "International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/mobiquitous/",
+      "section": "人机交互与普适计算"
+    },
+    {
+      "key": "AVI",
+      "full_name": "International Working Conference on Advanced Visual Interfaces",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/avi/",
+      "section": "人机交互与普适计算"
+    }
+  ]
+}

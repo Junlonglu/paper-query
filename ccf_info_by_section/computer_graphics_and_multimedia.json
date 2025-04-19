@@ -1,0 +1,478 @@
+{
+  "journal_A": [
+    {
+      "key": "TOG",
+      "full_name": "ACM Transactions on Graphics",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tog/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "TIP",
+      "full_name": "IEEE Transactions on Image Processing",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tip/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "TVCG",
+      "full_name": "IEEE Transactions on Visualization and Computer Graphics",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tvcg/",
+      "section": "计算机图形学与多媒体"
+    }
+  ],
+  "journal_B": [
+    {
+      "key": "TOMM",
+      "full_name": "ACM Transactions on Multimedia Computing, Communications and Applications",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tomccap/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "CAGD",
+      "full_name": "Computer Aided Geometric Design",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/cagd/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "CGF",
+      "full_name": "Computer Graphics Forum",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/cgf/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "CAD",
+      "full_name": "Computer-Aided Design",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/cad/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "GM",
+      "full_name": "Graphical Models",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/cvgip/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "TCSVT",
+      "full_name": "IEEE Transactions on Circuits and Systems for Video Technology",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tcsv/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "TMM",
+      "full_name": "IEEE Transactions on Multimedia",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tmm/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "JASA",
+      "full_name": "The Journal of the Acoustical Society of America",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://scitation.aip.org/content/asa/journal/jasa",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "SIIMS",
+      "full_name": "SIAM Journal on Imaging Sciences",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/siamis/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "SPECOM",
+      "full_name": "Speech Communication",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/speech/",
+      "section": "计算机图形学与多媒体"
+    }
+  ],
+  "journal_C": [
+    {
+      "key": "CGTA",
+      "full_name": "Computational Geometry: Theory and Applications",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/comgeo/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "CAVW",
+      "full_name": "Computer Animation & Virtual Worlds",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/jvca/index.html",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "C&G",
+      "full_name": "Computers & Graphics",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/cg/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "DCG",
+      "full_name": "Discrete & Computational Geometry",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/dcg/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "SPL",
+      "full_name": "IEEE Signal Processing Letters",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/spl/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "IET-IPR",
+      "full_name": "IET Image Processing",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/iet-ipr/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "JVCIR",
+      "full_name": "Journal of Visual Communication and Image Representation",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/jvcir/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "MS",
+      "full_name": "Multimedia Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/mms/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "MTA",
+      "full_name": "Multimedia Tools and Applications",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/mta/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "SIGPRO",
+      "full_name": "Signal Processing",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/sigpro/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "IMAGE",
+      "full_name": "Signal Processing: Image Communication",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/spic/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "TVC",
+      "full_name": "The Visual Computer",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/vc/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "CVMJ",
+      "full_name": "Computational Visual Media",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/cvm/index.html",
+      "section": "计算机图形学与多媒体"
+    }
+  ],
+  "conference_A": [
+    {
+      "key": "ACM MM",
+      "full_name": "ACM International Conference on Multimedia",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/mm/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "SIGGRAPH",
+      "full_name": "ACM Special Interest Group on Computer Graphics",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/siggraph/index.html",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "VR",
+      "full_name": "IEEE Virtual Reality",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/vr/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "IEEE VIS",
+      "full_name": "IEEE Visualization Conference",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/visualization/index.html",
+      "section": "计算机图形学与多媒体"
+    }
+  ],
+  "conference_B": [
+    {
+      "key": "ICMR",
+      "full_name": "ACM SIGMM International Conference on Multimedia Retrieval",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/mir/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "I3D",
+      "full_name": "ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/si3d/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "SCA",
+      "full_name": "ACM SIGGRAPH/Eurographics Symposium on Computer Animation",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/sca/index.html",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "DCC",
+      "full_name": "Data Compression Conference",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/dcc/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "Eurographics",
+      "full_name": "Annual Conference of the European Association for Computer Graphics",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/eurographics/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "EuroVis",
+      "full_name": "Eurographics Conference on Visualization",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/vissym/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "SGP",
+      "full_name": "Eurographics Symposium on Geometry Processing",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/sgp/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "EGSR",
+      "full_name": "Eurographics Symposium on Rendering",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/rt/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "ICASSP",
+      "full_name": "IEEE International Conference on Acoustics, Speech and Signal Processing",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/icassp/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "ICME",
+      "full_name": "IEEE International Conference on Multimedia & Expo",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/icmcs/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "ISMAR",
+      "full_name": "International Symposium on Mixed and Augmented Reality",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/ismar/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "PG",
+      "full_name": "Pacific Conference on Computer Graphics and Applications",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/pg/index.html",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "SPM",
+      "full_name": "Symposium on Solid and Physical Modeling",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/sma/",
+      "section": "计算机图形学与多媒体"
+    }
+  ],
+  "conference_C": [
+    {
+      "key": "VRST",
+      "full_name": "ACM Symposium on Virtual Reality Software and Technology",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp2.uni-trier.de/db/conf/vrst/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "CASA",
+      "full_name": "International Conference on Computer Animation and Social Agents",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ca/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "CGI",
+      "full_name": "Computer Graphics International",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/cgi/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "INTERSPEECH",
+      "full_name": "Conference of the International Speech Communication Association",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/interspeech/index.html",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "GMP",
+      "full_name": "Geometric Modeling and Processing",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/gmp/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "PacificVis",
+      "full_name": "IEEE Pacific Visualization Symposium",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/apvis/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "3DV",
+      "full_name": "International Conference on 3D Vision",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/conf/3dim/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "CAD/Graphics",
+      "full_name": "International Conference on Computer-Aided Design and Computer Graphics",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/conf/cadgraphics/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "ICIP",
+      "full_name": "IEEE International Conference on Image Processing",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/icip/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "MMM",
+      "full_name": "International Conference on Multimedia Modeling",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/mmm/index.html",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "MMAsia",
+      "full_name": "ACM Multimedia Asia",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/conf/mmasia/index.html",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "SMI",
+      "full_name": "Shape Modeling International",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/smi/",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "ICVRV",
+      "full_name": "International Conference on Virtual Reality and Visualization",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://www.computer.org/csdl/proceedings/1800579",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "CVM",
+      "full_name": "Computational Visual Media",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.org/db/conf/cvm/index.html",
+      "section": "计算机图形学与多媒体"
+    },
+    {
+      "key": "PRCV",
+      "full_name": "Chinese Conference on Pattern Recognition and Computer Vision (中国模式识别与计算机视觉大会)",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.org/db/conf/prcv/index.html",
+      "section": "计算机图形学与多媒体"
+    }
+  ]
+}

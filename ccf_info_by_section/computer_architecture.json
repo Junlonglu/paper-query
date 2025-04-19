@@ -1,0 +1,734 @@
+{
+  "journal_A": [
+    {
+      "key": "TOCS",
+      "full_name": "ACM Transactions on Computer Systems",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tocs/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "TOS",
+      "full_name": "ACM Transactions on Storage",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tos/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "TCAD",
+      "full_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tcad/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "TC",
+      "full_name": "IEEE Transactions on Computers",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tc/index.html",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "TPDS",
+      "full_name": "IEEE Transactions on Parallel and Distributed Systems",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/tpds/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "TACO",
+      "full_name": "ACMTransactions onArchitecture and Code Optimization",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/taco/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    }
+  ],
+  "journal_B": [
+    {
+      "key": "TAAS",
+      "full_name": "ACM Transactions onAutonomous andAdaptive Systems",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/taas/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "TODAES",
+      "full_name": "ACM Transactions on Design Automation of Electronic Systems",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/todaes/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "TECS",
+      "full_name": "ACM Transactions on Embedded Computing Systems",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tecs/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "TRETS",
+      "full_name": "ACM Transactions on Reconfigurable Technology and Systems",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/trets/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "TVLSI",
+      "full_name": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tvlsi/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "JPDC",
+      "full_name": "Journal of Parallel and Distributed Computing",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/jpdc/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "JSA",
+      "full_name": "Journal of Systems Architecture: Embedded Software Design",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/jsa/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "Parallel Computing",
+      "full_name": "Parallel Computing",
+      "type": "journal",
+      "rank": "B",
+      "url": "https://dblp.org/db/journals/pc/index.html",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "Performance Evaluation: An International Journal",
+      "full_name": "Performance Evaluation: An International Journal",
+      "type": "journal",
+      "rank": "B",
+      "url": "https://dblp.org/db/journals/pe/index.html",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    }
+  ],
+  "journal_C": [
+    {
+      "key": "JETC",
+      "full_name": "ACM Journal on Emerging Technologies in Computing Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/jetc/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "Concurrency and Computation: Practice and Experience",
+      "full_name": "Concurrency and Computation: Practice and Experience",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/concurrency/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "DC",
+      "full_name": "Distributed Computing",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/dc/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "FGCS",
+      "full_name": "Future Generation Computer Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/fgcs/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "TCC",
+      "full_name": "IEEE Transactions on CloudComputing",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/journals/tcc/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "Integration",
+      "full_name": "Integration, the VLSIJournal",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/integration/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "JETTA",
+      "full_name": "Journal of Electronic Testing-Theory and Applications",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/et/index.html",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "JGC",
+      "full_name": "Journal",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/journals/grid/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "RTS",
+      "full_name": "Real-Time Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/rts/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "TJSC",
+      "full_name": "The Journal of Supercomputing",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/tjs/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "TCASI",
+      "full_name": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/tcasI/index.html",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "CCF-THPC",
+      "full_name": "CCF Transactions on High Performance Computing",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/ccfthpc/index.html",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "TSUSC",
+      "full_name": "IEEE Transactions on Sustainable Computing",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/tsusc/index.html",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    }
+  ],
+  "conference_A": [
+    {
+      "key": "PPoPP",
+      "full_name": "ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/ppopp/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "FAST",
+      "full_name": "USENIX Conference on File and Storage Technologies",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/fast/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "DAC",
+      "full_name": "Design Automation Conference",
+      "type": "conference",
+      "rank": "A",
+      "url": "https://dblp.uni-trier.de/db/conf/dac/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "HPCA",
+      "full_name": "IEEE International Symposium on High Performance Computer Architecture",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/hpca/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "MICRO",
+      "full_name": "IEEE/ACM International Symposium on Microarchitecture",
+      "type": "conference",
+      "rank": "A",
+      "url": "https://dblp.uni-trier.de/db/conf/micro/index.html",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "SC",
+      "full_name": "International Conference for High Performance Computing, Networking, Storage, and Analysis",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/sc/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ASPLOS",
+      "full_name": "International Conference on Architectural Support for Programming Languages and Operating Systems",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/asplos/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ISCA",
+      "full_name": "International Symposium on Computer Architecture",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/isca/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "USENIX ATC",
+      "full_name": "USENIX Annual Technical Conference",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/usenix/index.html",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "EuroSys",
+      "full_name": "European Conference on Computer Systems",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/eurosys/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    }
+  ],
+  "conference_B": [
+    {
+      "key": "SoCC",
+      "full_name": "ACM Symposium on Cloud Computing",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/cloud/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "SPAA",
+      "full_name": "ACM Symposium on Parallelism in Algorithms and Architectures",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/spaa/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "PODC",
+      "full_name": "ACM Symposium on Principles of Distributed Computing",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/podc/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "FPGA",
+      "full_name": "ACM/SIGDA International Symposium on Field-Programmable Gate Arrays",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/fpga/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "CGO",
+      "full_name": "The International Symposium on Code Generation and Optimization",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/cgo/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "DATE",
+      "full_name": "Design, Automation & Test in Europe",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/date/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "HOTCHIPS",
+      "full_name": "Hot Chips: A Symposium on High Performance Chips",
+      "type": "conference",
+      "rank": "B",
+      "url": "https://dblp.org/db/conf/hotchips/index.html",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "CLUSTER",
+      "full_name": "IEEE International Conference on Cluster Computing",
+      "type": "conference",
+      "rank": "B",
+      "url": "https://dblp.uni-trier.de/db/conf/cluster/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ICCD",
+      "full_name": "International Conference on Computer Design",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/iccd/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ICCAD",
+      "full_name": "International Conference on Computer-Aided Design",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/iccad/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ICDCS",
+      "full_name": "IEEE International Conference on Distributed Computing Systems",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/icdcs/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "CODES+ISSS",
+      "full_name": "International Conference on Hardware/Software Co-design and System Synthesis",
+      "type": "conference",
+      "rank": "B",
+      "url": "https://dblp.uni-trier.de/db/conf/codesiss/index.html",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "HiPEAC",
+      "full_name": "International Conference on High Performance and Embedded Architectures and Compilers",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/hipeac/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "SIGMETRICS",
+      "full_name": "International Conference on Measurement and Modeling of Computer Systems",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/sigmetrics/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "PACT",
+      "full_name": "International Conference on Parallel Architectures and Compilation Techniques",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/IEEEpact/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ICPP",
+      "full_name": "International Conference on Parallel Processing",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/icpp/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ICS",
+      "full_name": "International Conference on Supercomputing",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/ics/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "VEE",
+      "full_name": "International Conference on Virtual Execution Environments",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/vee/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "IPDPS",
+      "full_name": "IEEE International Parallel & Distributed Processing Symposium",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/ipps/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "Performance",
+      "full_name": "International Symposium on Computer Performance, Modeling, Measurements and Evaluation",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/performance/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "HPDC",
+      "full_name": "The International ACM Symposium on High-Performance Parallel and Distributed Computing",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/hpdc/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ITC",
+      "full_name": "International Test Conference",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/itc/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "LISA",
+      "full_name": "Large Installation System Administration Conference",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/lisa/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "MSST",
+      "full_name": "Mass Storage Systems and Technologies",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/mss/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "RTAS",
+      "full_name": "IEEE Real-Time and Embedded Technology and Applications Symposium",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/rtas/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "Euro-Par",
+      "full_name": "European Conference on Parallel and Distributed Computing",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/europar/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    }
+  ],
+  "conference_C": [
+    {
+      "key": "CF",
+      "full_name": "ACM International Conference on Computing Frontiers",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/cf/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "SYSTOR",
+      "full_name": "ACM International Systems and Storage Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/systor/index.html",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "NOCS",
+      "full_name": "ACM/IEEE International Symposium on Networks-on-Chip",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/nocs/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ASAP",
+      "full_name": "IEEE International Conference on Application-Specific Systems, Architectures, and Processors",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/asap/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ASP-DAC",
+      "full_name": "Asia and South Pacific Design Automation Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/aspdac/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ETS",
+      "full_name": "IEEE European Test Symposium",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ets/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "FPL",
+      "full_name": "International Conference on Field-Programmable Logic and Applications",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/fpl/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "FCCM",
+      "full_name": "IEEE Symposium on Field-Programmable Custom Computing Machines",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/fccm/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "GLSVLSI",
+      "full_name": "Great Lakes Symposium on VLSI",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/glsvlsi/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ATS",
+      "full_name": "IEEE Asian Test Symposium",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ats/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "HPCC",
+      "full_name": "IEEE International Conference on High Performance Computing and Communications",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/hpcc/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "HiPC",
+      "full_name": "IEEE International Conference on High Performance Computing, Data and Analytics",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/hipc/index.html",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "MASCOTS",
+      "full_name": "International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/mascots/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ISPA",
+      "full_name": "IEEE International Symposium on Parallel and Distributed Processing with Applications",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ispa/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "CCGRID",
+      "full_name": "IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ccgrid/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "NPC",
+      "full_name": "IFIP International Conference on Network and Parallel Computing",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/npc/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ICA3PP",
+      "full_name": "International Conference on Algorithms and Architectures for Parallel Processing",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ica3pp/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "CASES",
+      "full_name": "International Conference on Compilers, Architectures, and Synthesis for Embedded Systems",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/cases/index.html",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "FPT",
+      "full_name": "International Conference on Field-Programmable Technology",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/fpt/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ICPADS",
+      "full_name": "International Conference on Parallel and Distributed Systems",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/icpads/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ISCAS",
+      "full_name": "IEEE International Symposium on Circuits and Systems",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/iscas/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ISLPED",
+      "full_name": "International Symposium on Low Power Electronics and Design",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/islped/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ISPD",
+      "full_name": "International Symposium on Physical Design",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ispd/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "HOTI",
+      "full_name": "IEEE Symposium on High-Performance Interconnects",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/hoti/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "VTS",
+      "full_name": "IEEE VLSI Test Symposium",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/vts/",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    },
+    {
+      "key": "ITC-Asia",
+      "full_name": "International Test Conference in Asia",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.org/db/conf/itc-asia/index.html",
+      "section": "计算机体系结构·并行与分布计算·存储系统"
+    }
+  ]
+}

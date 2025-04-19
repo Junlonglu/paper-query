@@ -1,0 +1,830 @@
+{
+  "journal_A": [
+    {
+      "key": "AI",
+      "full_name": "Artificial Intelligence",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/ai/",
+      "section": "人工智能"
+    },
+    {
+      "key": "TPAMI",
+      "full_name": "IEEE Transactions on Pattern Analysis and MachineIntelligence",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/pami/",
+      "section": "人工智能"
+    },
+    {
+      "key": "IJCV",
+      "full_name": "InternationalJournal of Computer Vision",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/ijcv/",
+      "section": "人工智能"
+    },
+    {
+      "key": "JMLR",
+      "full_name": "Journal of Machine Learning Research",
+      "type": "journal",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/journals/jmlr/",
+      "section": "人工智能"
+    }
+  ],
+  "journal_B": [
+    {
+      "key": "TAP",
+      "full_name": "ACM Transactions on Applied Perception",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tap/",
+      "section": "人工智能"
+    },
+    {
+      "key": "AAMAS",
+      "full_name": "Autonomous Agents and Multi-Agent Systems",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/aamas/",
+      "section": "人工智能"
+    },
+    {
+      "key": "Computational Linguistics",
+      "full_name": "Computational Linguistics",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/coling/",
+      "section": "人工智能"
+    },
+    {
+      "key": "CVIU",
+      "full_name": "Computer Vision and Image Understanding",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/cviu/",
+      "section": "人工智能"
+    },
+    {
+      "key": "DKE",
+      "full_name": "Data & Knowledge Engineering",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/dke/index.html",
+      "section": "人工智能"
+    },
+    {
+      "key": "Evolutionary Computation",
+      "full_name": "Evolutionary Computation",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/ec/",
+      "section": "人工智能"
+    },
+    {
+      "key": "TAC",
+      "full_name": "IEEE Transactions on Affective Computing",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/taffco/",
+      "section": "人工智能"
+    },
+    {
+      "key": "TASLP",
+      "full_name": "IEEE/ACM Transactions on Audio, Speech and Language Processing",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/taslp/",
+      "section": "人工智能"
+    },
+    {
+      "key": "IEEE Transactions on Cybernetics",
+      "full_name": "IEEE Transactions on Cybernetics",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tcyb/",
+      "section": "人工智能"
+    },
+    {
+      "key": "TEC",
+      "full_name": "IEEE Transactions on Evolutionary Computation",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tec/",
+      "section": "人工智能"
+    },
+    {
+      "key": "TFS",
+      "full_name": "IEEE Transactions on Fuzzy Systems",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tfs/",
+      "section": "人工智能"
+    },
+    {
+      "key": "TNNLS",
+      "full_name": "IEEE Transactions on Neural Networks and Learning Systems",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/tnn/",
+      "section": "人工智能"
+    },
+    {
+      "key": "IJAR",
+      "full_name": "International Journal of Approximate Reasoning",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/ijar/",
+      "section": "人工智能"
+    },
+    {
+      "key": "JAIR",
+      "full_name": "Journal of Artificial Intelligence Research",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/jair/index.html",
+      "section": "人工智能"
+    },
+    {
+      "key": "Journal of Automated Reasoning",
+      "full_name": "Journal of Automated Reasoning",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/jar/",
+      "section": "人工智能"
+    },
+    {
+      "key": "JSLHR",
+      "full_name": "Journal of Speech, Language, and Hearing Research",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://jslhr.pubs.asha.org/",
+      "section": "人工智能"
+    },
+    {
+      "key": "Machine Learning",
+      "full_name": "Machine Learning",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/ml/",
+      "section": "人工智能"
+    },
+    {
+      "key": "Neural Computation",
+      "full_name": "Neural Computation",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/neco/",
+      "section": "人工智能"
+    },
+    {
+      "key": "Neural Networks",
+      "full_name": "Neural Networks",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/journals/nn/",
+      "section": "人工智能"
+    },
+    {
+      "key": "PR",
+      "full_name": "Pattern Recognition",
+      "type": "journal",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/pr/",
+      "section": "人工智能"
+    },
+    {
+      "key": "TACL",
+      "full_name": "Transactions of the Association for Computational Linguistics",
+      "type": "journal",
+      "rank": "B",
+      "url": "https://dblp.org/db/journals/tacl/index.html",
+      "section": "人工智能"
+    }
+  ],
+  "journal_C": [
+    {
+      "key": "TALLIP",
+      "full_name": "ACM Transactions on Asian and Low-Resource Language Information Processing",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/tallip/",
+      "section": "人工智能"
+    },
+    {
+      "key": "Applied Intelligence",
+      "full_name": "Applied Intelligence",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/apin/",
+      "section": "人工智能"
+    },
+    {
+      "key": "AIM",
+      "full_name": "Artificial Intelligence in Medicine",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/artmed/",
+      "section": "人工智能"
+    },
+    {
+      "key": "Artificial Life",
+      "full_name": "Artificial Life",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/alife/",
+      "section": "人工智能"
+    },
+    {
+      "key": "Computational Intelligence",
+      "full_name": "Computational Intelligence",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ci/",
+      "section": "人工智能"
+    },
+    {
+      "key": "Computer Speech & Language",
+      "full_name": "Computer Speech & Language",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/csl/",
+      "section": "人工智能"
+    },
+    {
+      "key": "Connection Science",
+      "full_name": "Connection Science",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/connection/",
+      "section": "人工智能"
+    },
+    {
+      "key": "DSS",
+      "full_name": "Decision Support Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/dss/",
+      "section": "人工智能"
+    },
+    {
+      "key": "EAAI",
+      "full_name": "Engineering Applications of Artificial Intelligence",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/eaai/",
+      "section": "人工智能"
+    },
+    {
+      "key": "Expert Systems",
+      "full_name": "Expert Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/es/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ESWA",
+      "full_name": "Expert Systems with Applications",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/eswa/",
+      "section": "人工智能"
+    },
+    {
+      "key": "Fuzzy Sets and Systems",
+      "full_name": "Fuzzy Sets and Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/fss/",
+      "section": "人工智能"
+    },
+    {
+      "key": "TG",
+      "full_name": "IEEE Transactions on Games",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/tciaig/",
+      "section": "人工智能"
+    },
+    {
+      "key": "IET-CVI",
+      "full_name": "IET Computer Vision",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/iet-cvi/index.html",
+      "section": "人工智能"
+    },
+    {
+      "key": "IET Signal Processing",
+      "full_name": "IET Signal Processing",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/iet-spr/index.html",
+      "section": "人工智能"
+    },
+    {
+      "key": "IVC",
+      "full_name": "Image and Vision Computing",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ivc/",
+      "section": "人工智能"
+    },
+    {
+      "key": "IDA",
+      "full_name": "Intelligent Data Analysis",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ida/",
+      "section": "人工智能"
+    },
+    {
+      "key": "IJCIA",
+      "full_name": "International Journal of Computational Intelligence and Applications",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ijcia/",
+      "section": "人工智能"
+    },
+    {
+      "key": "IJIS",
+      "full_name": "International Journal of Intelligent Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ijis/",
+      "section": "人工智能"
+    },
+    {
+      "key": "IJNS",
+      "full_name": "International Journal of Neural Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ijns/",
+      "section": "人工智能"
+    },
+    {
+      "key": "IJPRAI",
+      "full_name": "International Journal of Pattern Recognition and Artificial Intelligence",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ijprai/",
+      "section": "人工智能"
+    },
+    {
+      "key": "IJUFKS",
+      "full_name": "International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/journals/ijufks/",
+      "section": "人工智能"
+    },
+    {
+      "key": "IJDAR",
+      "full_name": "International Journal on Document Analysis and Recognition",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ijdar/",
+      "section": "人工智能"
+    },
+    {
+      "key": "JETAI",
+      "full_name": "Journal of Experimental and Theoretical Artificial Intelligence",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/jetai/",
+      "section": "人工智能"
+    },
+    {
+      "key": "KBS",
+      "full_name": "Knowledge-Based Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/kbs/",
+      "section": "人工智能"
+    },
+    {
+      "key": "Machine Translation",
+      "full_name": "Machine Translation",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/mt/",
+      "section": "人工智能"
+    },
+    {
+      "key": "Machine Vision and Applications",
+      "full_name": "Machine Vision and Applications",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/mva/",
+      "section": "人工智能"
+    },
+    {
+      "key": "Natural Computing",
+      "full_name": "Natural Computing",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/nc/",
+      "section": "人工智能"
+    },
+    {
+      "key": "NLE",
+      "full_name": "Natural Language Engineering",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/nle/",
+      "section": "人工智能"
+    },
+    {
+      "key": "NCA",
+      "full_name": "Neural Computing and Applications",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/nca/",
+      "section": "人工智能"
+    },
+    {
+      "key": "NPL",
+      "full_name": "Neural Processing Letters",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/npl/",
+      "section": "人工智能"
+    },
+    {
+      "key": "Neurocomputing",
+      "full_name": "Neurocomputing",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/ijon/",
+      "section": "人工智能"
+    },
+    {
+      "key": "PAA",
+      "full_name": "Pattern Analysis and Applications",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/paa/",
+      "section": "人工智能"
+    },
+    {
+      "key": "PRL",
+      "full_name": "Pattern Recognition Letters",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/prl/",
+      "section": "人工智能"
+    },
+    {
+      "key": "Soft Computing",
+      "full_name": "Soft Computing",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/soco/",
+      "section": "人工智能"
+    },
+    {
+      "key": "WI",
+      "full_name": "Web Intelligence",
+      "type": "journal",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/journals/wias/",
+      "section": "人工智能"
+    },
+    {
+      "key": "TIIS",
+      "full_name": "ACM Transactions on Interactive Intelligent Systems",
+      "type": "journal",
+      "rank": "C",
+      "url": "https://dblp.org/db/journals/tiis/index.html",
+      "section": "人工智能"
+    }
+  ],
+  "conference_A": [
+    {
+      "key": "AAAI",
+      "full_name": "AAAI Conference on Artificial Intelligence",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/aaai/",
+      "section": "人工智能"
+    },
+    {
+      "key": "NeurIPS",
+      "full_name": "Conference on Neural Information Processing Systems",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/nips/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ACL",
+      "full_name": "Annual Meeting of the Association for Computational Linguistics",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/acl/",
+      "section": "人工智能"
+    },
+    {
+      "key": "CVPR",
+      "full_name": "IEEE/CVF Computer Vision and Pattern Recognition Conference",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/cvpr/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ICCV",
+      "full_name": "International Conference on Computer Vision",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/iccv/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ICML",
+      "full_name": "International Conference on Machine Learning",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/icml/",
+      "section": "人工智能"
+    },
+    {
+      "key": "IJCAI",
+      "full_name": "International Joint Conference on Artificial Intelligence",
+      "type": "conference",
+      "rank": "A",
+      "url": "http://dblp.uni-trier.de/db/conf/ijcai/",
+      "section": "人工智能"
+    }
+  ],
+  "conference_B": [
+    {
+      "key": "COLT",
+      "full_name": "Annual Conference on Computational Learning Theory",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/colt/",
+      "section": "人工智能"
+    },
+    {
+      "key": "EMNLP",
+      "full_name": "Conference on Empirical Methods in Natural Language Processing",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/emnlp/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ECAI",
+      "full_name": "European Conference on Artificial Intelligence",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/ecai/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ECCV",
+      "full_name": "European Conference on Computer Vision",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/eccv/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ICRA",
+      "full_name": "IEEE International Conference on Robotics and Automation",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/icra/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ICAPS",
+      "full_name": "International Conference on Automated Planning and Scheduling",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/aips/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ICCBR",
+      "full_name": "International Conference on Case-Based Reasoning",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/iccbr/",
+      "section": "人工智能"
+    },
+    {
+      "key": "COLING",
+      "full_name": "International Conference on Computational Linguistics",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/coling/",
+      "section": "人工智能"
+    },
+    {
+      "key": "KR",
+      "full_name": "International Conference on Principles of Knowledge Representation and Reasoning",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/kr/",
+      "section": "人工智能"
+    },
+    {
+      "key": "UAI",
+      "full_name": "Conference on Uncertainty in Artificial Intelligence",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/uai/",
+      "section": "人工智能"
+    },
+    {
+      "key": "AAMAS",
+      "full_name": "International Joint Conference on Autonomous Agents and Multi-Agent Systems",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/atal/index.html",
+      "section": "人工智能"
+    },
+    {
+      "key": "PPSN",
+      "full_name": "Parallel Problem Solving from Nature",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/ppsn/",
+      "section": "人工智能"
+    },
+    {
+      "key": "NAACL",
+      "full_name": "North American Chapter of the Association for Computational Linguistics",
+      "type": "conference",
+      "rank": "B",
+      "url": "http://dblp.uni-trier.de/db/conf/naacl/",
+      "section": "人工智能"
+    }
+  ],
+  "conference_C": [
+    {
+      "key": "AISTATS",
+      "full_name": "International Conference on Artificial Intelligence and Statistics",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/aistats/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ACCV",
+      "full_name": "Asian Conference on Computer Vision",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/acccv/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ACML",
+      "full_name": "Asian Conference on Machine Learning",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/acml/",
+      "section": "人工智能"
+    },
+    {
+      "key": "BMVC",
+      "full_name": "British Machine Vision Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/bmvc/",
+      "section": "人工智能"
+    },
+    {
+      "key": "NLPCC",
+      "full_name": "CCF International Conference on Natural Language Processing and Chinese Computing",
+      "type": "conference",
+      "rank": "C",
+      "url": "https://dblp.uni-trier.de/db/conf/nlpcc/",
+      "section": "人工智能"
+    },
+    {
+      "key": "CoNLL",
+      "full_name": "Conference on Computational Natural Language Learning",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/conll/",
+      "section": "人工智能"
+    },
+    {
+      "key": "GECCO",
+      "full_name": "Genetic and Evolutionary Computation Conference",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/gecco/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ICTAI",
+      "full_name": "IEEE International Conference on Tools with Artificial Intelligence",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ictai/",
+      "section": "人工智能"
+    },
+    {
+      "key": "IROS",
+      "full_name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/iros/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ALT",
+      "full_name": "International Conference on Algorithmic Learning Theory",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/alt/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ICANN",
+      "full_name": "International Conference on Artificial Neural Networks",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/icann/",
+      "section": "人工智能"
+    },
+    {
+      "key": "FG",
+      "full_name": "IEEE International Conference on Automatic Face and Gesture Recognition",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/fgr/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ICDAR",
+      "full_name": "International Conference on Document Analysis and Recognition",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/icdar/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ILP",
+      "full_name": "International Conference on Inductive Logic Programming",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ilp/",
+      "section": "人工智能"
+    },
+    {
+      "key": "KSEM",
+      "full_name": "International Conference on Knowledge Science, Engineering and Management",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ksem/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ICONIP",
+      "full_name": "International Conference on Neural Information Processing",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/iconip/",
+      "section": "人工智能"
+    },
+    {
+      "key": "ICPR",
+      "full_name": "International Conference on Pattern Recognition",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/icpr/",
+      "section": "人工智能"
+    },
+    {
+      "key": "IJCB",
+      "full_name": "International Joint Conference on Biometrics",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/icb/",
+      "section": "人工智能"
+    },
+    {
+      "key": "IJCNN",
+      "full_name": "International Joint Conference on Neural Networks",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/ijcnn/",
+      "section": "人工智能"
+    },
+    {
+      "key": "PRICAI",
+      "full_name": "Pacific Rim International Conference on Artificial Intelligence",
+      "type": "conference",
+      "rank": "C",
+      "url": "http://dblp.uni-trier.de/db/conf/pricai/",
+      "section": "人工智能"
+    }
+  ]
+}
