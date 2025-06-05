@@ -176,6 +176,8 @@ cython_debug/
 
 # 忽略查询结果文件夹及其内容
 query_result/
+# 忽略日志文件夹及其内容
+logs/
 
 # 只保留custom_info 下的default.json文件
 !custom_info/default.json
