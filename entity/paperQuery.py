@@ -120,7 +120,7 @@ class PaperQuery:
 
         # 仅为本地 logger 添加临时 handler（内存中）
         buffer_handler = logging.StreamHandler(buffer)
-        formatter = logging.Formatter('%(thread)d - %(asctime)s - %(filename)s[line:%(lineno)d] - %(funcName)s - %(levelname)s - %(message)s')
+        formatter = logging.Formatter(fmt='%(thread)d - %(asctime)s - %(filename)s[line:%(lineno)d] - %(funcName)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S %p')
         buffer_handler.setFormatter(formatter)
         local_logger.addHandler(buffer_handler)
 

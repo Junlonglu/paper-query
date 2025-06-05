@@ -11,7 +11,7 @@ def setup_logger(name: str, log_file: str = "logs/app.log", level=logging.INFO):
     logger.setLevel(level)
 
     if not logger.handlers:  # 防止重复添加 handler
-        formatter = logging.Formatter('%(thread)d - %(asctime)s - %(filename)s[line:%(lineno)d] - %(funcName)s - %(levelname)s - %(message)s')
+        formatter = logging.Formatter(fmt='%(thread)d - %(asctime)s - %(filename)s[line:%(lineno)d] - %(funcName)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S %p')
 
         file_handler = logging.FileHandler(log_file, encoding='utf-8')
         file_handler.setFormatter(formatter)
